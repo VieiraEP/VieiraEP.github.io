@@ -92,7 +92,7 @@ font-family: 'Patrick Hand', cursive;
 }
 .ser-text-wthree h4,.blog-txt-info h4 a,.footer-bottom-info h4{
     font-size: 25px;
-    color:#3b9974;
+    color:#;
     text-transform: capitalize;
 }
 .sent-butnn:hover,.view-buttn a:hover {
@@ -725,10 +725,10 @@ button.btn1 {
     background: #000;
 }
 .footer-w3layouts-bottem {
-    background: #06121f;
+    background: whitesmoke;
 }
 .footer-office-hour ul li p,.footer-office-hour ul li p a,.footer-office-hour p{font-size: 13px;
-    color: #bbb9b9;
+    color: black;
     line-height: 21px;
 }
 .bottem-wthree-footer p {
